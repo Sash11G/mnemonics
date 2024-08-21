@@ -23,7 +23,7 @@ peg_system = {
     70: "Case", 71: "Cat", 72: "Can", 73: "Gum", 74: "Car",
     75: "Coal", 76: "Cage", 77: "Cake", 78: "Cave", 79: "Cup",
     80: "Vase", 81: "Foot", 82: "Phone", 83: "Fame", 84: "Fire",
-    85: "File", 86: "Fish", 87: "Fig", 88: "Fifa", 89: "Vape",
+    85: "Fly/File", 86: "Fish", 87: "Fork", 88: "Fifa", 89: "Vape",
     90: "Bus", 91: "Bat", 92: "Bone", 93: "Bomb", 94: "Bear",
     95: "Bell", 96: "Peach", 97: "Book", 98: "Beef", 99: "Pope"
 }
